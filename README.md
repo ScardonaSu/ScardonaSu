@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Santiago Cardona</h1>
-<h3 align="center">Desarrollador Backend en formación con FastAPI 🚀</h3>
+<h1 align="center">Hi 👋, I'm Santiago Cardona</h1>
+<h3 align="center">Backend Developer in training with FastAPI 🚀</h3>
 
 ---
 ![Image Alt](https://github.com/ScardonaSu/ScardonaSu/blob/13e08b292a2718214c9df866c4883bd8759dfecf/Python%20Developer.png)
@@ -7,33 +7,37 @@
   <img src="https://komarev.com/ghpvc/?username=santicardona&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
-### 🧠 Sobre mí
-
-- 💡 Estoy aprendiendo **FastAPI, Web Scraping, SQLAlchemy y Trading con Python**  
-- 🎯 Objetivo: Convertirme en freelancer en plataformas como **Workana y Fiverr**
-- 💼 Me interesa trabajar en APIs REST, bots automatizados y dashboards con datos en tiempo real
-- 📫 Cómo contactarme: **santicardonas777@email.com**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding-gif">
+</p>
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🧠 About Me
+
+- 💡 Currently learning **FastAPI, Web Scraping, SQLAlchemy, and Trading with Python**
+- 🎯 Goal: Work as a freelancer on platforms like **Workana and Fiverr**
+- 💼 Interested in building REST APIs, automation bots, and real-time dashboards
+- 📫 Contact me at: **youremail@email.com**
+
+---
+
+### 🛠️ Technologies & Tools
 
 - ⚙️ Backend: `Python`, `FastAPI`, `SQLAlchemy`
-- 🗄️ Base de Datos: `PostgreSQL`, `SQLite`
+- 🗄️ Databases: `PostgreSQL`, `SQLite`
 - 🧪 Testing: `Pytest`
-- 🔧 Otros: `Git`, `GitHub`, `Docker (básico)`
+- 🔧 Others: `Git`, `GitHub`, `Docker (basic)`
 
 ---
 
-### 📂 Proyectos destacados
+### 📂 Featured Projects
 
-| Proyecto | Descripción | Tecnologías |
-| -------- | ----------- | ----------- |
-| `Mini ToDo API` | API con autenticación básica para crear tareas | FastAPI, SQLite |
-| `Bot de Trading` | Bot automatizado que detecta señales y envía alertas | Python, Pandas, Binance API |
-| `Web Scraper` | Scraper de productos y precios para tiendas online | Requests, BeautifulSoup, PostgreSQL |
+| Project         | Description                                            | Technologies               |
+|----------------|--------------------------------------------------------|----------------------------|
+| `Mini ToDo API` | Basic task manager API with authentication            | FastAPI, SQLite            |
+| `Trading Bot`   | Automated bot that detects trading signals and alerts | Python, Pandas, Binance API |
+| `Web Scraper`   | Product and price scraper for online stores           | Requests, BeautifulSoup, PostgreSQL |
 
 ---
 
@@ -45,8 +49,8 @@
 
 ---
 
-### 🤝 Conectemos
+### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
-- 💻 [Portafolio Web](https://tuportafolio.com)
-- 💬 Telegram: [@tusuario](https://t.me/tusuario)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💻 [Web Portfolio](https://yourportfolio.com)
+- 💬 Telegram: [@yourusername](https://t.me/yourusername)
