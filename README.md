@@ -18,7 +18,7 @@
 - 💡 Estoy aprendiendo **FastAPI, Web Scraping, SQLAlchemy y Trading con Python**  
 - 🎯 Objetivo: Convertirme en freelancer en plataformas como **Workana y Fiverr**
 - 💼 Me interesa trabajar en APIs REST, bots automatizados y dashboards con datos en tiempo real
-- 📫 Cómo contactarme: **tucorreo@email.com**
+- 📫 Cómo contactarme: **santicardonas777@email.com**
 
 ---
 
