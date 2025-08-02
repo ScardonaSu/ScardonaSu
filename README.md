@@ -3,10 +3,8 @@
 
 ---
 ![Image Alt](https://github.com/ScardonaSu/ScardonaSu/blob/13e08b292a2718214c9df866c4883bd8759dfecf/Python%20Developer.png)
-
-
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding-gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santicardona&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
