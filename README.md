@@ -51,6 +51,6 @@
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/santo777/)
 - 💻 [Web Portfolio](https://yourportfolio.com)
 - 💬 Telegram: [@yourusername](https://t.me/yourusername)
