@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Backend en formación con FastAPI 🚀</h3>
 
 ---
-
+![Image Alt](https://github.com/ScardonaSu/ScardonaSu/blob/13e08b292a2718214c9df866c4883bd8759dfecf/Python%20Developer.png)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=santicardona&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
