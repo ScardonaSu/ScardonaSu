@@ -21,7 +21,7 @@
 - 🎯 Goal: Get my first job as a **Frontend / React Developer**
 - 🧩 Interested in building **modern UIs, reusable components, and scalable web apps**
 - 📚 Strengthening fundamentals in **Git, UI concepts, and frontend best practices**
-- 📫 Contact me at: **youremail@email.com**
+- 📫 Contact me at: **santicardonas777@gmail.com**
 
 ---
 
@@ -33,6 +33,9 @@
 - TypeScript
 - HTML5
 - CSS3
+- Tailwind
+- Docker
+- Figma
 
 ### ⚙️ Tools
 - Git
@@ -70,7 +73,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/santo777/)
 - 💻 [Web Portfolio](https://yourportfolio.com)
-- 💬 Telegram: [@yourusername](https://t.me/yourusername)
 
 ---
 
