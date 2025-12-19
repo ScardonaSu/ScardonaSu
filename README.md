@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Santiago Cardona</h1>
-<h3 align="center">Backend Developer in training with FastAPI 🚀</h3>
+<h3 align="center">Frontend Developer focused on React ⚛️</h3>
 
 ---
-![Image Alt](https://github.com/ScardonaSu/ScardonaSu/blob/13e08b292a2718214c9df866c4883bd8759dfecf/Python%20Developer.png)
+
+![React Developer](https://github.com/ScardonaSu/ScardonaSu/blob/main/React%20Developer.png)
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santicardona&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ScardonaSu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -13,44 +15,63 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 💡 Currently learning **FastAPI, Web Scraping, SQLAlchemy, and Trading with Python**
-- 🎯 Goal: Work as a freelancer on platforms like **Workana and Fiverr**
-- 💼 Interested in building REST APIs, automation bots, and real-time dashboards
+- ⚛️ Currently learning **React, TypeScript, JavaScript (ES6+), HTML & CSS**
+- 🎯 Goal: Get my first job as a **Frontend / React Developer**
+- 🧩 Interested in building **modern UIs, reusable components, and scalable web apps**
+- 📚 Strengthening fundamentals in **Git, UI concepts, and frontend best practices**
 - 📫 Contact me at: **youremail@email.com**
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-- ⚙️ Backend: `Python`, `FastAPI`, `SQLAlchemy`
-- 🗄️ Databases: `PostgreSQL`, `SQLite`
-- 🧪 Testing: `Pytest`
-- 🔧 Others: `Git`, `GitHub`, `Docker (basic)`
+### 🎨 Frontend
+- React
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+
+### ⚙️ Tools
+- Git
+- GitHub
+- Vite
+- VS Code
+
+### 🧠 Concepts
+- Hooks (`useState`, `useEffect`)
+- Props & State
+- Component-based architecture
+- Basic UI / UX principles
 
 ---
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
-| Project         | Description                                            | Technologies               |
-|----------------|--------------------------------------------------------|----------------------------|
-| `Mini ToDo API` | Basic task manager API with authentication            | FastAPI, SQLite            |
-| `Trading Bot`   | Automated bot that detects trading signals and alerts | Python, Pandas, Binance API |
-| `Web Scraper`   | Product and price scraper for online stores           | Requests, BeautifulSoup, PostgreSQL |
+| Project              | Description                                             | Technologies                    |
+|---------------------|---------------------------------------------------------|---------------------------------|
+| `Item Counter App`  | Interactive counter component with state management     | React, TypeScript               |
+| `GIF Finder App`    | App that fetches and displays GIFs from an API          | React, Fetch API, CSS           |
+| `ToDo App`          | Task manager with add, delete and complete features     | React, JavaScript               |
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santicardona&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ScardonaSu&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/santo777/)
 - 💻 [Web Portfolio](https://yourportfolio.com)
 - 💬 Telegram: [@yourusername](https://t.me/yourusername)
+
+---
+
+⭐ Always learning, building, and improving step by step.
