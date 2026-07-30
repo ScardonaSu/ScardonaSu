@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/santo777"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" /></a>
   <a href="mailto:santicardonas777@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Gmail" /></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFD700" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/soy_zanto/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFD700" alt="Instagram" /></a>
 </p>
 
 <p align="center">
